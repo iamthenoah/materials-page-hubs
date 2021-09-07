@@ -1,0 +1,18 @@
+{
+  "name": "growth-engineer-assignment-master",
+  "version": "1.0.0",
+  "description": "Hey you! Are you up for a challenge? Nothing contrived here, this is a snapshot straight from an average day at the office!",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

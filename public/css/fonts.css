@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Lineto Circular";
+  src: url("/assets/lineto-circular-bold.woff2")
+    format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "Lineto Circular";
+  src: url("/assets/lineto-circular-book.woff2")
+    format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
